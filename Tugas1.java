@@ -34,7 +34,7 @@ public class Tugas1 {
     
 }
 
-class biodata {
+public class biodata {
     String name;
     int nim;
     String jurusan;
